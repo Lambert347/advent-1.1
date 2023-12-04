@@ -1,0 +1,16 @@
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-1.2/ConsoleApp1/bin/Debug/net7.0/input.txt
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-1.2/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-1.2/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.deps.json
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-1.2/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.runtimeconfig.json
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-1.2/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-1.2/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-1.2/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-1.2/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-1.2/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-1.2/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-1.2/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.sourcelink.json
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-1.2/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-1.2/ConsoleApp1/obj/Debug/net7.0/refint/ConsoleApp1.dll
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-1.2/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-1.2/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.genruntimeconfig.cache
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-1.2/ConsoleApp1/obj/Debug/net7.0/ref/ConsoleApp1.dll
