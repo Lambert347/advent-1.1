@@ -4,7 +4,6 @@ var inputList = new List<string>(inputFile);
 int total = 0;
 foreach(string line in inputList){
     int matchCount = 0;
-
     List<string> gameNumbers = line.Split("|", StringSplitOptions.TrimEntries).ToList()[1].Split(" ", StringSplitOptions.TrimEntries).Where(s => !string.IsNullOrWhiteSpace(s)).ToList();
     List<string> winningNumbers = line.Split("|", StringSplitOptions.TrimEntries).ToList()[0].Split(":", StringSplitOptions.TrimEntries).ToList()[1].Split(" ", StringSplitOptions.TrimEntries).Where(s => !string.IsNullOrWhiteSpace(s)).ToList();
 
@@ -19,8 +18,6 @@ foreach(string line in inputList){
         }
     }
     total = calculateNewTotalPerGame(total, matchCount);
-
-    
 }
 
 Console.WriteLine(total);
