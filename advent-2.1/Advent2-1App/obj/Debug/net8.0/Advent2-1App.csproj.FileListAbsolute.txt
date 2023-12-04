@@ -1,0 +1,15 @@
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-2.1/Advent2-1App/bin/Debug/net8.0/Advent2-1App
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-2.1/Advent2-1App/bin/Debug/net8.0/Advent2-1App.deps.json
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-2.1/Advent2-1App/bin/Debug/net8.0/Advent2-1App.runtimeconfig.json
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-2.1/Advent2-1App/bin/Debug/net8.0/Advent2-1App.dll
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-2.1/Advent2-1App/bin/Debug/net8.0/Advent2-1App.pdb
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-2.1/Advent2-1App/obj/Debug/net8.0/Advent2-1App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-2.1/Advent2-1App/obj/Debug/net8.0/Advent2-1App.AssemblyInfoInputs.cache
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-2.1/Advent2-1App/obj/Debug/net8.0/Advent2-1App.AssemblyInfo.cs
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-2.1/Advent2-1App/obj/Debug/net8.0/Advent2-1App.csproj.CoreCompileInputs.cache
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-2.1/Advent2-1App/obj/Debug/net8.0/Advent2-1App.sourcelink.json
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-2.1/Advent2-1App/obj/Debug/net8.0/Advent2-1App.dll
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-2.1/Advent2-1App/obj/Debug/net8.0/refint/Advent2-1App.dll
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-2.1/Advent2-1App/obj/Debug/net8.0/Advent2-1App.pdb
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-2.1/Advent2-1App/obj/Debug/net8.0/Advent2-1App.genruntimeconfig.cache
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-2.1/Advent2-1App/obj/Debug/net8.0/ref/Advent2-1App.dll

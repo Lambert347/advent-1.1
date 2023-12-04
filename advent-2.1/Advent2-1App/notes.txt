@@ -1,0 +1,22 @@
+Game 1: 
+
+4 green, 
+2 blue; 
+
+1 red, 
+1 blue, 
+4 green; 
+
+3 green, 
+4 blue, 
+1 red; 
+
+7 green, 
+2 blue, 
+4 red; 
+
+3 red, 
+7 green; 
+
+3 red, 
+3 green
