@@ -1,0 +1,15 @@
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-4.2/Advent4-2/bin/Debug/net8.0/Advent4-2
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-4.2/Advent4-2/bin/Debug/net8.0/Advent4-2.deps.json
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-4.2/Advent4-2/bin/Debug/net8.0/Advent4-2.runtimeconfig.json
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-4.2/Advent4-2/bin/Debug/net8.0/Advent4-2.dll
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-4.2/Advent4-2/bin/Debug/net8.0/Advent4-2.pdb
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-4.2/Advent4-2/obj/Debug/net8.0/Advent4-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-4.2/Advent4-2/obj/Debug/net8.0/Advent4-2.AssemblyInfoInputs.cache
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-4.2/Advent4-2/obj/Debug/net8.0/Advent4-2.AssemblyInfo.cs
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-4.2/Advent4-2/obj/Debug/net8.0/Advent4-2.csproj.CoreCompileInputs.cache
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-4.2/Advent4-2/obj/Debug/net8.0/Advent4-2.sourcelink.json
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-4.2/Advent4-2/obj/Debug/net8.0/Advent4-2.dll
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-4.2/Advent4-2/obj/Debug/net8.0/refint/Advent4-2.dll
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-4.2/Advent4-2/obj/Debug/net8.0/Advent4-2.pdb
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-4.2/Advent4-2/obj/Debug/net8.0/Advent4-2.genruntimeconfig.cache
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-4.2/Advent4-2/obj/Debug/net8.0/ref/Advent4-2.dll
