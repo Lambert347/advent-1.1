@@ -1,0 +1,15 @@
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-8.1/Advent8-1/bin/Debug/net8.0/Advent8-1
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-8.1/Advent8-1/bin/Debug/net8.0/Advent8-1.deps.json
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-8.1/Advent8-1/bin/Debug/net8.0/Advent8-1.runtimeconfig.json
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-8.1/Advent8-1/bin/Debug/net8.0/Advent8-1.dll
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-8.1/Advent8-1/bin/Debug/net8.0/Advent8-1.pdb
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-8.1/Advent8-1/obj/Debug/net8.0/Advent8-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-8.1/Advent8-1/obj/Debug/net8.0/Advent8-1.AssemblyInfoInputs.cache
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-8.1/Advent8-1/obj/Debug/net8.0/Advent8-1.AssemblyInfo.cs
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-8.1/Advent8-1/obj/Debug/net8.0/Advent8-1.csproj.CoreCompileInputs.cache
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-8.1/Advent8-1/obj/Debug/net8.0/Advent8-1.sourcelink.json
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-8.1/Advent8-1/obj/Debug/net8.0/Advent8-1.dll
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-8.1/Advent8-1/obj/Debug/net8.0/refint/Advent8-1.dll
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-8.1/Advent8-1/obj/Debug/net8.0/Advent8-1.pdb
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-8.1/Advent8-1/obj/Debug/net8.0/Advent8-1.genruntimeconfig.cache
+/Users/ianlambert/Documents/random-projects/advent-2023/advent-with-C-sharp/advent-8.1/Advent8-1/obj/Debug/net8.0/ref/Advent8-1.dll
